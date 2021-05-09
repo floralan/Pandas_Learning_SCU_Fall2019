@@ -1,0 +1,401 @@
+,SALES,STATUS,QTR_ID,YEAR_ID,PRODUCTLINE,MSRP,COUNTRY,DEALSIZE
+1477,2299.0,Shipped,2,2004,Motorcycles,112,USA,Small
+248,4029.0,Shipped,4,2003,Motorcycles,150,USA,Medium
+1226,5600.5,Shipped,2,2004,Vintage Cars,105,USA,Medium
+1573,1851.0,Shipped,1,2004,Motorcycles,76,Japan,Small
+598,14082.8,On Hold,2,2005,Vintage Cars,170,USA,Large
+748,4196.07,Resolved,1,2005,Vintage Cars,127,USA,Medium
+50,8254.8,Shipped,1,2005,Classic Cars,214,USA,Large
+772,2142.35,Shipped,4,2004,Trucks and Buses,60,USA,Small
+2070,5207.75,Shipped,1,2005,Classic Cars,118,Spain,Medium
+1597,3170.7,Shipped,4,2003,Ships,122,USA,Medium
+346,1762.08,Shipped,4,2003,Classic Cars,79,USA,Small
+1934,4873.26,Shipped,3,2004,Classic Cars,107,Singapore,Medium
+1114,4791.82,Shipped,1,2003,Vintage Cars,99,Norway,Medium
+2739,4025.6,Shipped,1,2005,Ships,99,Finland,Medium
+28,7329.06,Shipped,2,2003,Classic Cars,214,Spain,Large
+1987,5497.65,Shipped,4,2004,Classic Cars,140,Germany,Medium
+1882,1224.6,Shipped,3,2004,Classic Cars,61,USA,Small
+2027,1013.48,Shipped,3,2003,Vintage Cars,41,USA,Small
+1552,1106.93,Shipped,3,2004,Vintage Cars,33,Singapore,Small
+925,1559.04,Shipped,4,2004,Vintage Cars,62,France,Small
+2594,2451.84,Shipped,4,2003,Ships,72,Spain,Small
+1539,1404.0,Shipped,1,2003,Vintage Cars,33,Germany,Small
+2008,3002.4,Shipped,2,2004,Planes,68,USA,Medium
+65,2852.08,Shipped,2,2004,Motorcycles,118,USA,Small
+2119,3521.25,Shipped,1,2005,Planes,72,France,Medium
+1967,3351.09,Shipped,1,2005,Vintage Cars,83,USA,Medium
+1766,2182.44,Resolved,1,2005,Planes,68,Spain,Small
+1193,3155.58,Shipped,3,2003,Motorcycles,62,USA,Medium
+2253,3131.94,Shipped,3,2003,Trains,62,USA,Medium
+2271,4301.22,Shipped,4,2004,Trains,62,France,Medium
+2631,4208.0,Shipped,4,2004,Classic Cars,101,France,Medium
+1671,1645.65,Shipped,3,2003,Motorcycles,69,USA,Small
+1237,1266.1,Resolved,1,2005,Vintage Cars,105,Spain,Small
+255,6863.92,Shipped,3,2004,Motorcycles,150,USA,Medium
+1780,2762.2,Shipped,2,2004,Classic Cars,117,France,Small
+773,2086.92,On Hold,4,2004,Trucks and Buses,60,Sweden,Small
+499,5548.9,Shipped,1,2005,Vintage Cars,102,Australia,Medium
+2393,4310.72,Shipped,3,2004,Trucks and Buses,115,USA,Medium
+586,5890.5,Shipped,4,2003,Vintage Cars,170,USA,Medium
+1906,3236.1,Cancelled,2,2004,Vintage Cars,65,Spain,Medium
+2105,3245.6,Shipped,2,2004,Planes,72,Canada,Medium
+2602,2610.72,Shipped,3,2004,Ships,72,Belgium,Small
+2038,965.04,Shipped,4,2004,Vintage Cars,41,Spain,Small
+1470,5355.68,Shipped,4,2003,Motorcycles,112,USA,Medium
+192,7474.5,Shipped,4,2003,Classic Cars,207,Italy,Large
+1077,5082.42,Cancelled,2,2004,Trains,100,USA,Medium
+2422,2051.56,Shipped,4,2004,Trains,58,UK,Small
+1544,977.43,Shipped,4,2003,Vintage Cars,33,Italy,Small
+1246,3337.6,Shipped,4,2003,Classic Cars,143,Singapore,Medium
+1145,4444.92,Shipped,4,2003,Classic Cars,146,Australia,Medium
+2819,3978.51,Shipped,1,2005,Ships,54,Finland,Medium
+767,1732.0,Shipped,3,2004,Trucks and Buses,60,USA,Small
+675,2428.0,Shipped,4,2004,Classic Cars,163,Spain,Small
+768,1674.17,Shipped,3,2004,Trucks and Buses,60,USA,Small
+2066,3182.97,Shipped,4,2004,Classic Cars,118,USA,Medium
+1227,4103.46,Cancelled,2,2004,Vintage Cars,105,Spain,Medium
+1956,4273.29,Cancelled,2,2004,Vintage Cars,83,Spain,Medium
+403,4180.44,Shipped,1,2004,Classic Cars,115,Spain,Medium
+1691,2279.55,Shipped,1,2005,Motorcycles,69,USA,Small
+439,2251.04,Shipped,4,2004,Trucks and Buses,116,USA,Small
+730,4431.84,Shipped,2,2003,Vintage Cars,127,USA,Medium
+725,3843.99,Shipped,1,2005,Trucks and Buses,122,Spain,Medium
+1902,1935.09,Shipped,4,2003,Vintage Cars,65,Philippines,Small
+1561,8344.71,Shipped,1,2005,Vintage Cars,33,Australia,Large
+291,6130.35,Shipped,1,2003,Classic Cars,117,Philippines,Medium
+1851,2328.64,Shipped,4,2003,Classic Cars,85,USA,Small
+1549,1226.82,Shipped,1,2004,Vintage Cars,33,France,Small
+2668,2688.0,Shipped,3,2003,Planes,80,USA,Small
+2501,2658.0,Shipped,4,2004,Planes,91,Spain,Small
+1179,4116.8,Shipped,3,2004,Classic Cars,141,USA,Medium
+1369,5565.12,Shipped,1,2003,Classic Cars,148,Philippines,Medium
+1365,2730.0,Shipped,1,2005,Vintage Cars,50,Australia,Small
+1687,3307.2,Shipped,4,2004,Motorcycles,69,Austria,Medium
+924,1871.83,Shipped,3,2004,Vintage Cars,62,Sweden,Small
+2387,2657.76,Shipped,4,2003,Trucks and Buses,115,USA,Small
+314,1809.5,Shipped,1,2005,Classic Cars,117,Sweden,Small
+2275,1193.04,Shipped,2,2005,Trains,62,USA,Small
+2407,1033.41,Shipped,2,2003,Trains,58,Singapore,Small
+396,2838.81,Shipped,3,2003,Classic Cars,115,USA,Small
+973,3340.51,Shipped,2,2004,Vintage Cars,104,Spain,Medium
+2808,1192.56,Shipped,1,2004,Ships,54,UK,Small
+817,1997.5,Shipped,2,2004,Motorcycles,60,USA,Small
+2609,2185.15,Shipped,4,2004,Ships,72,Spain,Small
+921,2632.28,Shipped,2,2004,Vintage Cars,62,USA,Small
+1377,5673.58,Shipped,1,2004,Classic Cars,148,France,Medium
+1725,1247.4,Shipped,4,2003,Classic Cars,35,USA,Small
+335,3105.62,Shipped,4,2004,Classic Cars,173,France,Medium
+292,3693.34,Shipped,2,2003,Classic Cars,117,France,Medium
+110,4526.08,Shipped,4,2003,Classic Cars,136,Finland,Medium
+2657,4072.2,Shipped,4,2004,Planes,118,Italy,Medium
+1117,3095.4,Shipped,3,2003,Vintage Cars,99,Australia,Medium
+2115,3146.5,Shipped,4,2004,Planes,72,USA,Medium
+1623,1012.4,Shipped,4,2003,Vintage Cars,44,Australia,Small
+1292,1685.28,Shipped,3,2003,Vintage Cars,87,USA,Small
+382,5247.18,Shipped,3,2004,Trucks and Buses,118,USA,Medium
+2059,3070.54,Shipped,3,2004,Classic Cars,118,USA,Medium
+1593,3366.0,Shipped,3,2003,Ships,122,USA,Medium
+1216,2687.04,Shipped,2,2003,Vintage Cars,105,Austria,Small
+1613,2255.12,Shipped,1,2005,Ships,122,USA,Small
+1515,2233.69,In Process,2,2005,Classic Cars,50,Australia,Small
+2017,2018.58,Shipped,4,2004,Planes,68,UK,Small
+2047,5568.64,Shipped,2,2003,Classic Cars,118,USA,Medium
+2822,3079.44,On Hold,2,2005,Ships,54,USA,Medium
+2551,4195.8,Shipped,4,2004,Ships,90,UK,Medium
+1217,3423.75,Shipped,2,2003,Vintage Cars,105,USA,Medium
+297,2860.76,Shipped,4,2003,Classic Cars,117,Norway,Small
+230,2669.1,Shipped,4,2004,Trucks and Buses,136,Canada,Small
+1129,2501.98,Shipped,3,2004,Vintage Cars,99,USA,Small
+2590,3838.05,Shipped,2,2003,Ships,72,UK,Medium
+588,3712.8,Shipped,1,2004,Vintage Cars,170,France,Medium
+2032,1295.97,Shipped,4,2003,Vintage Cars,41,USA,Small
+1421,2583.34,Shipped,4,2003,Classic Cars,73,USA,Small
+107,5004.8,Shipped,2,2003,Classic Cars,136,Austria,Medium
+2385,4948.2,Shipped,4,2003,Trucks and Buses,115,Spain,Medium
+6,2497.77,Shipped,4,2003,Motorcycles,95,France,Small
+495,1516.62,Shipped,4,2004,Vintage Cars,102,USA,Small
+1151,6554.24,Shipped,2,2004,Classic Cars,146,Denmark,Medium
+1976,3861.75,Shipped,4,2003,Classic Cars,140,Norway,Medium
+17,4394.38,Shipped,4,2004,Motorcycles,95,Norway,Medium
+1152,6749.83,Shipped,2,2004,Classic Cars,146,France,Medium
+227,2938.5,Shipped,3,2004,Trucks and Buses,136,USA,Small
+654,7381.16,Shipped,2,2003,Classic Cars,163,USA,Large
+2451,4682.36,Shipped,4,2004,Motorcycles,81,Austria,Medium
+1441,1086.6,Shipped,3,2003,Classic Cars,57,Finland,Small
+829,2202.48,Disputed,2,2005,Motorcycles,60,Spain,Small
+304,2454.54,Shipped,3,2004,Classic Cars,117,Italy,Small
+2792,1624.25,Shipped,1,2005,Planes,49,Finland,Small
+1452,2913.3,Shipped,3,2004,Classic Cars,57,USA,Small
+2360,1896.66,Shipped,1,2004,Vintage Cars,43,Australia,Small
+1767,1611.4,Shipped,1,2005,Planes,68,France,Small
+2122,2130.01,Shipped,1,2003,Classic Cars,80,Philippines,Small
+2083,3406.59,Shipped,1,2004,Vintage Cars,97,USA,Medium
+1265,6376.58,Shipped,1,2005,Classic Cars,143,Spain,Medium
+111,5924.16,Cancelled,4,2003,Classic Cars,136,Sweden,Medium
+501,2055.74,Shipped,1,2003,Vintage Cars,53,USA,Small
+1865,3478.64,Shipped,1,2005,Classic Cars,85,Spain,Medium
+2126,1543.3,Shipped,4,2003,Classic Cars,80,USA,Small
+945,4636.38,Shipped,1,2004,Ships,86,USA,Medium
+2570,3246.75,Shipped,1,2004,Planes,99,USA,Medium
+1442,1632.75,Shipped,3,2003,Classic Cars,57,Australia,Small
+613,2464.77,Shipped,3,2004,Classic Cars,77,Italy,Small
+1644,5105.14,Shipped,3,2003,Trucks and Buses,127,USA,Medium
+1977,6319.35,Shipped,4,2003,Classic Cars,140,USA,Medium
+2190,6482.85,Shipped,4,2004,Motorcycles,99,Spain,Medium
+902,4814.4,Shipped,4,2004,Vintage Cars,101,Australia,Medium
+220,4933.92,Shipped,4,2003,Trucks and Buses,136,France,Medium
+1296,3630.28,Shipped,4,2003,Vintage Cars,87,USA,Medium
+582,5176.5,Shipped,4,2003,Vintage Cars,170,USA,Medium
+415,4068.7,Shipped,1,2005,Classic Cars,115,Finland,Medium
+2051,2384.64,Shipped,4,2003,Classic Cars,118,Singapore,Small
+1900,1988.28,Shipped,4,2003,Vintage Cars,65,France,Small
+1636,828.36,Shipped,4,2004,Vintage Cars,44,France,Small
+527,5433.08,Shipped,1,2003,Classic Cars,124,UK,Medium
+1333,2881.76,Shipped,4,2004,Trucks and Buses,121,Canada,Small
+2062,4641.48,Shipped,4,2004,Classic Cars,118,USA,Medium
+1247,5532.12,Shipped,4,2003,Classic Cars,143,Italy,Medium
+2314,4093.0,Shipped,3,2004,Vintage Cars,68,Norway,Medium
+757,2701.92,Shipped,3,2003,Trucks and Buses,60,Finland,Small
+4,5205.27,Shipped,4,2003,Motorcycles,95,USA,Medium
+563,8160.3,Shipped,2,2004,Planes,157,USA,Large
+218,6817.22,Shipped,4,2003,Trucks and Buses,136,Australia,Medium
+1825,3266.1,Shipped,4,2003,Vintage Cars,88,Spain,Medium
+40,4905.39,Shipped,3,2004,Classic Cars,214,Australia,Medium
+804,2055.23,Shipped,1,2003,Motorcycles,60,USA,Small
+1951,3079.44,Shipped,4,2003,Vintage Cars,83,UK,Medium
+1357,2634.28,Shipped,3,2004,Vintage Cars,50,USA,Small
+1683,2194.17,Shipped,3,2004,Motorcycles,69,Finland,Small
+2774,1671.44,Shipped,4,2003,Planes,49,Finland,Small
+1162,4142.64,Shipped,1,2005,Classic Cars,146,Finland,Medium
+1791,5296.5,In Process,2,2005,Classic Cars,117,Australia,Medium
+351,2591.96,Shipped,1,2004,Classic Cars,79,France,Small
+2613,2352.59,On Hold,2,2005,Ships,72,USA,Small
+2598,2914.2,Shipped,1,2004,Ships,72,USA,Small
+1688,2896.65,Shipped,4,2004,Motorcycles,69,Spain,Small
+1153,8427.02,Shipped,3,2004,Classic Cars,146,Australia,Large
+2250,3227.63,Shipped,1,2003,Trains,62,Spain,Medium
+2720,3245.58,Shipped,3,2003,Ships,99,USA,Medium
+1854,3184.8,Shipped,1,2004,Classic Cars,85,France,Medium
+713,2159.96,Shipped,2,2004,Trucks and Buses,122,Spain,Small
+808,2162.16,Shipped,4,2003,Motorcycles,60,USA,Small
+1398,3072.96,Shipped,4,2003,Classic Cars,71,USA,Medium
+1068,2151.82,Shipped,3,2003,Trains,100,USA,Small
+1218,3455.76,Shipped,3,2003,Vintage Cars,105,USA,Medium
+664,7300.51,Shipped,1,2004,Classic Cars,163,Germany,Large
+1685,2533.63,Shipped,4,2004,Motorcycles,69,USA,Small
+735,4642.88,Shipped,4,2003,Vintage Cars,127,Australia,Medium
+81,9264.86,Shipped,2,2003,Motorcycles,193,Australia,Large
+151,6678.0,Shipped,4,2004,Classic Cars,147,Canada,Medium
+679,5318.04,In Process,2,2005,Classic Cars,163,France,Medium
+428,1960.14,Shipped,4,2003,Trucks and Buses,116,France,Small
+2789,2060.37,Shipped,4,2004,Planes,49,Japan,Small
+943,4036.04,Shipped,4,2003,Ships,86,Spain,Medium
+623,3881.78,Shipped,1,2005,Classic Cars,77,Sweden,Medium
+54,3896.49,Shipped,1,2003,Motorcycles,118,USA,Medium
+2610,2883.53,Shipped,1,2005,Ships,72,Finland,Small
+737,3604.23,Shipped,1,2004,Vintage Cars,127,Spain,Medium
+812,1944.3,Shipped,4,2003,Motorcycles,60,USA,Small
+846,3577.6,Shipped,4,2004,Vintage Cars,168,France,Medium
+2246,1701.76,Shipped,1,2005,Trucks and Buses,54,Spain,Small
+165,8296.35,Shipped,4,2003,Classic Cars,194,USA,Large
+1146,3395.48,Shipped,4,2003,Classic Cars,146,Norway,Medium
+157,6231.54,Shipped,1,2005,Classic Cars,147,USA,Medium
+1456,2339.92,Shipped,4,2004,Classic Cars,57,Denmark,Small
+954,2312.24,Shipped,4,2004,Ships,86,Belgium,Small
+1299,3491.67,Shipped,1,2004,Vintage Cars,87,Belgium,Medium
+260,8118.55,Shipped,4,2004,Motorcycles,150,Austria,Large
+366,3065.78,Shipped,2,2005,Classic Cars,79,Austria,Medium
+2686,5208.72,Shipped,1,2005,Planes,80,France,Medium
+301,2495.5,Shipped,1,2004,Classic Cars,117,Switzerland,Small
+685,1495.26,Shipped,4,2003,Vintage Cars,60,Italy,Small
+2662,7154.5,Shipped,1,2005,Planes,118,USA,Large
+2653,5392.8,Shipped,3,2004,Planes,118,USA,Medium
+1966,3164.98,Shipped,1,2005,Vintage Cars,83,USA,Medium
+1073,3564.75,Shipped,4,2003,Trains,100,USA,Medium
+577,4352.16,Shipped,2,2005,Planes,157,Italy,Medium
+1669,2460.16,Shipped,2,2003,Motorcycles,69,France,Small
+1272,1584.66,Shipped,4,2003,Vintage Cars,92,Italy,Small
+1142,5432.7,Shipped,3,2003,Classic Cars,146,USA,Medium
+2540,3293.24,Shipped,4,2003,Ships,90,France,Medium
+1804,1706.8,Cancelled,2,2004,Classic Cars,37,UK,Small
+75,1329.9,Shipped,4,2004,Motorcycles,118,Australia,Small
+1695,1545.6,Shipped,3,2003,Classic Cars,90,Australia,Small
+2648,3199.86,Shipped,1,2004,Planes,118,Australia,Medium
+2729,3162.95,Cancelled,2,2004,Ships,99,USA,Medium
+464,5917.78,Shipped,4,2003,Classic Cars,141,Norway,Medium
+605,1262.8,Shipped,4,2003,Classic Cars,77,Austria,Small
+2088,5171.4,Shipped,3,2004,Vintage Cars,97,USA,Medium
+760,2647.04,Shipped,4,2003,Trucks and Buses,60,Spain,Small
+2201,1239.0,Shipped,4,2003,Motorcycles,40,USA,Small
+1234,5526.45,Shipped,4,2004,Vintage Cars,105,Belgium,Medium
+1281,3392.26,Shipped,4,2003,Vintage Cars,92,UK,Medium
+2661,1668.25,Shipped,1,2005,Planes,118,France,Small
+1642,2925.09,Shipped,2,2003,Trucks and Buses,127,France,Small
+1551,577.6,Shipped,3,2004,Vintage Cars,33,Italy,Small
+487,4684.8,Shipped,2,2004,Vintage Cars,102,Spain,Medium
+898,4613.8,Shipped,4,2004,Vintage Cars,101,France,Medium
+1711,2876.75,Shipped,4,2004,Classic Cars,90,USA,Small
+231,4784.13,Shipped,4,2004,Trucks and Buses,136,USA,Medium
+1163,4149.07,Shipped,1,2005,Classic Cars,146,Spain,Medium
+2199,1327.59,Shipped,3,2003,Motorcycles,40,USA,Small
+161,5265.15,Shipped,1,2003,Classic Cars,194,Philippines,Medium
+917,1888.88,Shipped,4,2003,Vintage Cars,62,Canada,Small
+1043,5852.52,Shipped,3,2004,Classic Cars,169,Switzerland,Medium
+282,4982.7,Shipped,4,2004,Classic Cars,151,UK,Medium
+2217,1513.54,Shipped,4,2004,Motorcycles,40,Spain,Small
+2726,2818.53,Shipped,1,2004,Ships,99,France,Small
+2163,3155.04,Shipped,4,2004,Trucks and Buses,96,USA,Medium
+1407,1672.1,Shipped,4,2003,Classic Cars,71,UK,Small
+1628,1690.9,Shipped,2,2004,Vintage Cars,44,France,Small
+2625,5614.0,Shipped,1,2004,Classic Cars,101,USA,Medium
+2604,2576.2,Shipped,3,2004,Ships,72,USA,Small
+2058,6311.2,Shipped,2,2004,Classic Cars,118,Spain,Medium
+1548,683.8,Shipped,1,2004,Vintage Cars,33,Spain,Small
+203,7975.44,Shipped,4,2004,Classic Cars,207,Denmark,Large
+749,4931.6,Shipped,1,2005,Vintage Cars,127,Spain,Medium
+330,3778.8,Shipped,3,2004,Classic Cars,173,USA,Medium
+13,3676.76,Shipped,2,2004,Motorcycles,95,USA,Medium
+521,1237.95,Shipped,4,2004,Vintage Cars,53,Australia,Small
+2325,4819.26,On Hold,2,2005,Vintage Cars,68,USA,Medium
+2517,4720.0,Shipped,4,2003,Ships,86,USA,Medium
+1603,4512.6,Shipped,2,2004,Ships,122,Canada,Medium
+299,2254.8,Shipped,4,2003,Classic Cars,117,Spain,Small
+2193,6353.27,Shipped,1,2005,Motorcycles,99,France,Medium
+1026,6324.75,Shipped,4,2003,Classic Cars,169,Norway,Medium
+1958,2407.68,Shipped,3,2004,Vintage Cars,83,Canada,Small
+2255,2351.36,Shipped,4,2003,Trains,62,Singapore,Small
+2104,1716.26,Shipped,1,2004,Planes,72,Australia,Small
+877,6144.6,Shipped,1,2005,Classic Cars,132,Belgium,Medium
+1028,3918.46,Shipped,4,2003,Classic Cars,169,USA,Medium
+1664,3449.4,Shipped,1,2005,Trucks and Buses,127,USA,Medium
+195,8602.92,Shipped,1,2004,Classic Cars,207,France,Large
+1610,2087.13,Shipped,4,2004,Ships,122,USA,Small
+1264,5340.9,Shipped,1,2005,Classic Cars,143,Spain,Medium
+2601,3021.48,Shipped,2,2004,Ships,72,Canada,Medium
+937,3853.6,Shipped,2,2003,Ships,86,USA,Medium
+1045,4011.66,Shipped,4,2003,Classic Cars,169,Norway,Medium
+1039,4812.55,Shipped,3,2004,Classic Cars,169,Italy,Medium
+927,1224.67,Shipped,4,2004,Vintage Cars,62,USA,Small
+2495,2864.32,Shipped,3,2004,Planes,91,France,Small
+1831,3053.7,Cancelled,2,2004,Vintage Cars,88,USA,Medium
+866,3231.36,Shipped,1,2004,Classic Cars,132,USA,Medium
+1587,3988.6,Shipped,1,2005,Motorcycles,76,Sweden,Medium
+47,3944.7,Shipped,4,2004,Classic Cars,214,Australia,Medium
+58,5016.83,Shipped,4,2003,Motorcycles,118,USA,Medium
+1098,2839.32,Shipped,4,2003,Classic Cars,80,Spain,Small
+72,5566.5,Shipped,4,2004,Motorcycles,118,USA,Medium
+896,5126.24,Shipped,3,2004,Vintage Cars,101,Italy,Medium
+1870,1785.51,Shipped,3,2003,Classic Cars,61,USA,Small
+1185,3734.72,Shipped,4,2004,Classic Cars,141,France,Medium
+1066,2011.8,Shipped,2,2003,Trains,100,Singapore,Small
+1165,6241.6,Shipped,1,2003,Classic Cars,141,USA,Medium
+2779,2145.12,Shipped,1,2004,Planes,49,USA,Small
+1747,1646.19,Shipped,3,2003,Planes,68,USA,Small
+1681,3472.54,Shipped,3,2004,Motorcycles,69,USA,Medium
+573,1611.4,Shipped,1,2005,Planes,157,Finland,Small
+2526,1753.06,Shipped,4,2004,Ships,86,Denmark,Small
+1483,2650.62,Shipped,4,2004,Motorcycles,112,Norway,Small
+1713,1350.0,Shipped,1,2005,Classic Cars,90,Spain,Small
+2243,1535.49,Shipped,4,2004,Trucks and Buses,54,USA,Small
+985,4288.2,Shipped,1,2005,Vintage Cars,104,USA,Medium
+549,1449.76,Shipped,1,2005,Classic Cars,124,Spain,Small
+816,1774.22,Shipped,2,2004,Motorcycles,60,USA,Small
+2359,1763.86,Shipped,1,2004,Vintage Cars,43,Japan,Small
+1813,1386.72,Shipped,4,2004,Classic Cars,37,Spain,Small
+1570,1919.4,Shipped,4,2003,Motorcycles,76,France,Small
+367,4615.78,Shipped,1,2003,Trucks and Buses,118,Spain,Medium
+2108,1682.37,Shipped,3,2004,Planes,72,France,Small
+785,1490.16,Shipped,4,2003,Planes,84,USA,Small
+2312,3164.4,Cancelled,2,2004,Vintage Cars,68,Spain,Medium
+2508,2100.82,Shipped,2,2005,Planes,91,Italy,Small
+2026,1528.58,Shipped,2,2003,Vintage Cars,41,USA,Small
+2538,2925.76,Shipped,4,2003,Ships,90,Finland,Small
+1132,3011.91,Shipped,4,2004,Vintage Cars,99,Germany,Medium
+1921,3724.42,Shipped,1,2003,Classic Cars,107,UK,Medium
+306,4756.5,Shipped,3,2004,Classic Cars,117,Switzerland,Medium
+1471,5747.5,Shipped,4,2003,Motorcycles,112,USA,Medium
+480,4389.12,Shipped,4,2003,Vintage Cars,102,USA,Medium
+1443,1734.0,Shipped,4,2003,Classic Cars,57,Singapore,Small
+1415,3069.0,Shipped,1,2003,Classic Cars,73,UK,Medium
+1833,2796.12,Shipped,3,2004,Vintage Cars,88,Belgium,Small
+1624,913.92,Shipped,4,2003,Vintage Cars,44,Spain,Small
+959,2245.2,Shipped,2,2005,Ships,86,USA,Small
+1344,2314.69,Shipped,2,2003,Vintage Cars,50,Spain,Small
+784,2559.6,Shipped,3,2003,Planes,84,USA,Small
+638,4459.62,Cancelled,2,2004,Classic Cars,142,UK,Medium
+1326,4716.23,Shipped,1,2004,Trucks and Buses,121,USA,Medium
+2564,2152.02,Shipped,3,2003,Planes,99,USA,Small
+1827,3910.4,Shipped,4,2003,Vintage Cars,88,Spain,Medium
+2396,3403.12,Shipped,4,2004,Trucks and Buses,115,Denmark,Medium
+2487,4954.08,Shipped,4,2003,Planes,91,Spain,Medium
+693,1729.0,Shipped,3,2004,Vintage Cars,60,Singapore,Small
+177,5521.89,Shipped,4,2003,Classic Cars,194,Germany,Medium
+535,4032.0,Shipped,4,2003,Classic Cars,124,USA,Medium
+1781,4645.72,Shipped,3,2004,Classic Cars,117,USA,Medium
+1846,4068.96,Shipped,2,2003,Classic Cars,85,USA,Medium
+2124,2008.13,Shipped,3,2003,Classic Cars,80,USA,Small
+1291,3962.88,Shipped,2,2003,Vintage Cars,87,Spain,Medium
+1680,2408.7,Shipped,2,2004,Motorcycles,69,USA,Small
+285,4059.33,Shipped,4,2004,Classic Cars,151,France,Medium
+1323,4262.08,Shipped,4,2003,Trucks and Buses,121,France,Medium
+102,3834.38,Shipped,1,2005,Motorcycles,193,Australia,Medium
+224,5920.4,Shipped,2,2004,Trucks and Buses,136,USA,Medium
+2605,3232.31,Shipped,4,2004,Ships,72,UK,Medium
+108,4398.24,Shipped,2,2003,Classic Cars,136,UK,Medium
+2285,2117.52,Shipped,4,2003,Trucks and Buses,64,Canada,Small
+2118,3167.0,Resolved,1,2005,Planes,72,Spain,Medium
+2007,1981.65,Shipped,2,2004,Planes,68,Canada,Small
+1011,5273.73,Shipped,1,2005,Vintage Cars,136,USA,Medium
+2463,1824.0,Shipped,4,2003,Ships,66,Spain,Small
+1673,2816.18,Shipped,4,2003,Motorcycles,69,Australia,Small
+1221,5386.56,Shipped,4,2003,Vintage Cars,105,France,Medium
+481,5036.16,Shipped,4,2003,Vintage Cars,102,Italy,Medium
+490,4567.98,Shipped,3,2004,Vintage Cars,102,Norway,Medium
+607,4088.7,Shipped,4,2003,Classic Cars,77,USA,Medium
+932,2723.2,Shipped,1,2005,Vintage Cars,62,USA,Small
+569,3704.13,Shipped,4,2004,Planes,157,UK,Medium
+1430,2273.7,Shipped,4,2004,Classic Cars,73,Spain,Small
+1413,4421.34,On Hold,2,2005,Classic Cars,71,USA,Medium
+1457,1729.0,Shipped,4,2004,Classic Cars,57,USA,Small
+1730,1585.36,Shipped,3,2004,Classic Cars,35,USA,Small
+1729,1030.44,Shipped,2,2004,Classic Cars,35,Singapore,Small
+724,3949.0,Shipped,1,2005,Trucks and Buses,122,Australia,Medium
+2113,2616.98,Shipped,4,2004,Planes,72,Italy,Small
+2730,4071.5,Shipped,2,2004,Ships,99,Canada,Medium
+1194,1357.86,Shipped,4,2003,Motorcycles,62,USA,Small
+2471,1372.14,Shipped,3,2004,Ships,66,Belgium,Small
+275,3142.36,Shipped,1,2004,Classic Cars,151,France,Medium
+1728,1767.43,Shipped,2,2004,Classic Cars,35,Spain,Small
+1829,3328.07,Shipped,1,2004,Vintage Cars,88,USA,Medium
+2782,1199.31,Cancelled,2,2004,Planes,49,Spain,Small
+1577,2311.02,Shipped,2,2004,Motorcycles,76,USA,Small
+205,1888.26,Shipped,4,2004,Classic Cars,207,France,Small
+1578,2399.4,Shipped,3,2004,Motorcycles,76,France,Small
+2134,3913.69,Shipped,2,2004,Classic Cars,80,USA,Medium
+2001,3392.84,Shipped,4,2003,Planes,68,Finland,Medium
+1020,5418.88,Shipped,3,2003,Classic Cars,169,Australia,Medium
+918,1820.01,Shipped,1,2004,Vintage Cars,62,USA,Small
+1925,2167.22,Shipped,4,2003,Classic Cars,107,USA,Small
+2531,6397.44,Shipped,1,2005,Ships,86,USA,Medium
+1782,5580.96,Shipped,3,2004,Classic Cars,117,Spain,Medium
+2282,2174.42,Shipped,4,2003,Trucks and Buses,64,UK,Small
+1419,2422.08,Shipped,4,2003,Classic Cars,73,USA,Small
+1135,2604.25,Shipped,4,2004,Vintage Cars,99,USA,Small
+761,3172.05,Shipped,4,2003,Trucks and Buses,60,France,Medium
+602,3806.88,Shipped,3,2003,Classic Cars,77,USA,Medium
+2746,2919.58,Shipped,3,2003,Planes,74,USA,Small
+1770,5942.28,Shipped,1,2003,Classic Cars,117,UK,Medium
+1649,5760.93,Shipped,4,2003,Trucks and Buses,127,France,Medium
+911,1424.0,Shipped,3,2003,Vintage Cars,62,Australia,Small
+2638,1864.56,Shipped,1,2005,Classic Cars,101,USA,Small
+913,3358.08,Shipped,4,2003,Vintage Cars,62,USA,Medium
+1032,5554.4,Shipped,1,2004,Classic Cars,169,Spain,Medium
+1860,2076.0,Shipped,4,2004,Classic Cars,85,Spain,Small
+2426,6490.88,Shipped,4,2004,Trains,58,Spain,Medium
+120,2992.0,Shipped,3,2004,Classic Cars,136,Canada,Small
+321,5559.03,Shipped,4,2003,Classic Cars,173,Singapore,Medium
+589,7597.3,Shipped,2,2004,Vintage Cars,170,France,Large
+137,3191.2,Shipped,3,2003,Classic Cars,147,Singapore,Medium
+2427,1623.25,Shipped,4,2004,Trains,58,France,Small
+2009,2948.16,Cancelled,2,2004,Planes,68,Spain,Small
